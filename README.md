@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-"# Joe_gitcafe" 
-=======
-# Joe_gitcafe
->>>>>>> c99f37139d606bbb1f9d3f6523699c7f5dab7602
+# Joe's Café
+
+Welcome to Joe's Café! This repository contains the menu items, signature recipes, and other information about our special café offerings. Check out the latest updates and recipes, including our signature latte!
